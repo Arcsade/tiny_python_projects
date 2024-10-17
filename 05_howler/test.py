@@ -5,6 +5,7 @@ import os
 import re
 import random
 import string
+import sys
 from subprocess import getstatusoutput, getoutput
 
 prg = './howler.py'
